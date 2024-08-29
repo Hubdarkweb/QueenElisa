@@ -1,12 +1,12 @@
 {
-    "name": "QUEEN_ELISA-MD",
-    "description": "Queen Elisa Whatsapp Bot By ELISACODERS. You Must Fill This form for deploy bot !",
-    "repository": "https://github.com/darkmakerofc/QueenElisa",
-    "logo": "https://raw.githubusercontent.com/darkmakerofc/QueenElisa/4.0.0-V/repo-data/repo-logo.jpg",
+    "name": "🗽🥷☣️🏴‍☠️ TOpPLUG bots",
+    "description": "🗽🕷️🥷☣️🏴‍☠️ TOPPLUG PIRATES Whatsapp Bot By 🗽🕷️🥷☣️🏴‍☠️CODERS. You Must Fill This form for deploy bot !",
+    "repository": "https://github.com/Hubdarkweb/TOPPLUG",
+    "logo": "https://raw.githubusercontent.com/Hubdarkweb/QueenElisa/4.0.0-V/repo-data/repo-logo.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp QUEEN-ELISA-MD Bot"
+        "WhatsApp 🗽🕷️🥷☣️🏴‍☠️ Bot"
     ],
     "env": {
         "SESSION_ID": {
