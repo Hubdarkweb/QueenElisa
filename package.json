@@ -1,7 +1,7 @@
 {
-  "name": "queen-elisa-md",
+  "name": "🗽🥷🏴‍☠️☣️TOPPLUG",
   "version": "4.0.1",
-  "description": "Queen Elisa Automated whatsapp md bot created by mr nima using nodejs and baileys lib",
+  "description": "TOPPLUG 🗽 Automated whatsapp md bot created by PIRATES 🕷️ 🗽 TOPPLUG 🗽 🏴‍☠️ ☣️ using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
     "lib": "lib"
@@ -11,20 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkmakerofc/QUEEN-ELISA-MD.git"
+    "url": "git+https://github.com/Hubdarkweb/QueenElisa.git"
   },
   "keywords": [
-    "queen",
-    "elisa",
+    "TOpPLUG",
+    "Pirates",
     "whatsapp",
-    "mrnima",
+    "🗽☣️🏴‍☠️🕷️🥷",
     "automate",
     "baileys",
     "wa-web",
     "speed",
     "2024"
   ],
-  "author": "darkmakerofc (mrnima)",
+  "author": "Hubdarkweb (TOpPLUG)",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@bochilteam/scraper": "^4.2.4",
